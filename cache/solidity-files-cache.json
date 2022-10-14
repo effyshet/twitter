@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspace/twitter/solidity-twitter-project-skeleton/contracts/twitter-q1.sol": {
+      "lastModificationDate": 1665754267252,
+      "contentHash": "d8e5dd9e51666f607ad490e7969b9b68",
+      "sourceName": "contracts/twitter-q1.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Twitter"
+      ]
+    }
+  }
+}
